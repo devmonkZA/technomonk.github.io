@@ -1,0 +1,8 @@
+title: Technomonk.github.io
+description: TechnoMonk
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
